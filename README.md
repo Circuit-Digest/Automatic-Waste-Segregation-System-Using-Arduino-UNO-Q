@@ -1,0 +1,1 @@
+# Automatic-Waste-Segregation-System-Using-Arduino-UNO-Q
