@@ -1,5 +1,3 @@
-# Automatic-Waste-Segregation-System-Using-Arduino-UNO-Q
-
 # Automatic Waste Segregation System Using Arduino UNO Q
 An intelligent, AI-powered waste sorting system that automatically identifies and segregates waste into different categories using Computer Vision and Machine Learning. Built on the **Arduino UNO Q**, this project leverages its hybrid dual-brain architecture to handle complex AI processing and real-time hardware control simultaneously.
 
