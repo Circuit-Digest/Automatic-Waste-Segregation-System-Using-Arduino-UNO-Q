@@ -34,7 +34,6 @@ The system utilizes the **Arduino UNO Q**'s unique architecture:
 
 - **[Edge Impulse](https://www.edgeimpulse.com/):** For data collection, model training, and generating the object detection dataset.
 - **[Arduino App Lab](https://applab.arduino.cc/):** To develop the Python application and deploy the model.
-- **Arduino IDE:** To program the hardware control logic onto the MCU side.
 
 ## 🔌 Circuit Diagram
 
